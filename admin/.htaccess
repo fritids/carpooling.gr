@@ -1,0 +1,8 @@
+AuthUserFile /var/www/vhosts/carpooling.gr/httpdocs/admin/.htpasswd
+AuthGroupFile /dev/null
+AuthName EnterPassword
+AuthType Basic
+require user carpooling
+
+
+# php_flag display_errors on

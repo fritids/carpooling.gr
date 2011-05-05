@@ -1,0 +1,29 @@
+Carpooling
+
+-------------
+-- Database
+-------------
+DB: gsakellaris_carpv3
+User: carpv3_dbuser
+Pwd: carpv3123!@#
+
+* Mono oi pinakes me prothema "cp_v3" isxuoun. Oi alloi pinakes exoun to palio schema version kai tha svistoun.
+
+-------------
+-- FTP/SSH
+-------------
+ftp.carpooling.gr
+User: carftp
+Pwd: car123!@#
+
+Prosoxi: Working Directory einai mono to /var/www/vhosts/carpooling.gr/subdomains/dev/httpdocs
+
+
+
+-------------
+-- Plesk
+-------------
+www.carpooling.gr:8443
+User: carftp
+Pwd: car123!@#
+
